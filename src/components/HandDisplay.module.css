@@ -1,0 +1,5 @@
+.hand-selection-emoji{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
