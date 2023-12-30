@@ -1,0 +1,11 @@
+.button-component{
+  display: flex;
+  justify-content: space-between;
+}
+
+.choice-button{
+  width: 30%;
+  aspect-ratio: 1/1;
+  border-radius: 10px;
+  font-size: large;
+}
